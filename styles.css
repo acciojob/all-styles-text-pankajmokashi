@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-div{
+.main{
 	width: 200px;
 	background-color: purple;
 	border-style: solid;
@@ -9,8 +9,8 @@ div{
 	padding: 10px;
 	
 }
-h1{
-	text-decoration-line: underline;  
+#heading{  
 	font-size: 20px;
 	color: white;
+	text-decoration-line: underline; 
 }
